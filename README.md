@@ -48,4 +48,4 @@ These platforms help in building a strong digital presence and showcasing skills
 
 ---
 
-## 📑 Project Report:PROJECTREPORT.pdf
+## 📑 Project Report:[PROJECT REPORT](./PROJECTREPORT.pdf)
